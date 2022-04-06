@@ -12,17 +12,29 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #381e11;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #e6dad0;
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
+}
+
+.titles {
+	color: #e6dad0;
+}
+
+.bodytext {
+	color: #e6dad0;
+}
+
+.btn {
+	background-color: #e6dad0 !important;
 }
