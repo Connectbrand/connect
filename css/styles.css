@@ -31,11 +31,12 @@ header {
 
 .footer-color {
 	color: #e6dad0;
-}
+} 
 
 /* Effect on social media buttons */
 
 footer a:hover {
+	color: #e6dad0;
 	opacity: .5;
 }
 .w-80 {
