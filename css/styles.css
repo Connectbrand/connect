@@ -29,11 +29,13 @@ header {
 	color: #5a483c;
 }
 
+.backgroundcolor {
+	color: #5a483c;
+}
 
 /* Effect on social media buttons */
 
 footer a:hover {
-	color: #e6dad0;
 	opacity: .5;
 }
 .w-80 {
