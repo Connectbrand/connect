@@ -20,7 +20,13 @@ header {
 .navbar {
 	background-color: #e6dad0;
 }
+.container {
+	background-color: #e6dad0;
 
+}
+.shadow-lg{
+ background-color: #e6dad0;
+}
 .textcolor {
 	color: #e6dad0;
 }
